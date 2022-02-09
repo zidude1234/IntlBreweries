@@ -1,0 +1,160 @@
+A1.
+ "years"	"Profit Worth"
+"2017"	"$38,503,320.00"
+"2018"	"$37,063,850.00"
+"2019"	"$30,020,250.00"
+
+A2.
+"years"	"regioncalc"	"Annual Profit per Territory"
+"2017"	"Anglophone"	"$15,749,550.00"
+"2017"	"Francophone"	"$22,753,770.00"
+"2018"	"Anglophone"	"$14,690,320.00"
+"2018"	"Francophone"	"$22,373,530.00"
+"2019"	"Anglophone"	"$11,949,390.00"
+"2019"	"Francophone"	"$18,070,860.00"
+
+A3.
+"countries"	"years"	"Profit per Country - 2019"
+"Ghana"	"2019"	7144070
+
+A4.
+"years"	"Profit per Year"
+"2017"	38503320
+
+A5.
+"years"	"months"	"Least Monthly Profit over Period"
+"2019"	"February"	1366880
+"2019"	"September"	1892600
+"2019"	"December"	2048780
+
+A6.
+"years"	"months"	"brands"	"Minumum Profit in Dec 2018"
+"2018"	"December"	"trophy"	86300
+
+A7.
+"years"	"months"	"Cost Price"	"Monthly Profit"	"Profit % Per Month"
+"2019"	"January"	7649200	3263160	"42.66%"
+"2019"	"February"	3556450	1366880	"38.43%"
+"2019"	"March"	5924300	2530620	"42.72%"
+"2019"	"April"	6227650	2851470	"45.79%"
+"2019"	"May"	5932250	2573040	"43.37%"
+"2019"	"June"	6715650	2669080	"39.74%"
+"2019"	"July"	6395700	2945340	"46.05%"
+"2019"	"August"	6457600	2982800	"46.19%"
+"2019"	"September"	4948100	1892600	"38.25%"
+"2019"	"October"	5133950	2220870	"43.26%"
+"2019"	"November"	6476500	2675610	"41.31%"
+"2019"	"December"	4908000	2048780	"41.74%"
+
+A8.
+"countries"	"brands"	"Highest Profit per Brand-Senegal"
+"Senegal"	"castle lite"	7012980
+
+B1.
+"brands"	"countries"	"Top 3 - Francophone Countries "
+"hero"	"Senegal"	"26,632"
+"hero"	"Benin"	"26,126"
+"castle lite"	"Senegal"	"25,974"
+
+B2
+"countries"	"brands"	"Top 2 Brands in Ghana"
+"Ghana"	"eagle lager"	"25,829"
+"Ghana"	"castle lite"	"25,806"
+
+B3.
+"countries"	"brands"	"Beer Details - Nigeria"
+"Nigeria"	"budweiser"	"26,153"
+"Nigeria"	"eagle lager"	"25,872"
+"Nigeria"	"hero"	"25,811"
+"Nigeria"	"trophy"	"25,743"
+"Nigeria"	"castle lite"	"25,681"
+
+B4.
+"brands"	"Favorites malt brand - Anglophone"
+"grand malt"	"33,221"
+
+B5.
+"countries"	"brands"	"Highest Brand-Nigeria"
+"Nigeria"	"hero"	"9,622"
+
+B6.
+"countries"	"brands"	"Highest Brand-Nigeria SS"
+"Nigeria"	"eagle lager"	"4,551"
+
+B7.
+"countries"	"Beer - Nigeria"
+"Nigeria"	"129,260"
+
+B8.
+"countries"	"region"	"brands"	"Budweiser - Nigeria Regions"
+"Nigeria"	"northcentral "	"budweiser"	"4,498"
+"Nigeria"	"northeast "	"budweiser"	"4,320"
+"Nigeria"	"northwest"	"budweiser"	"4,274"
+"Nigeria"	"Southeast"	"budweiser"	"4,113"
+"Nigeria"	"southsouth"	"budweiser"	"4,328"
+"Nigeria"	"west"	"budweiser"	"4,620"
+
+B9
+"countries"	"region"	"brands"	"years"	"Budweiser - Nigeria Regions (2019)"
+"Nigeria"	"Southeast"	"budweiser"	"2019"	1821
+"Nigeria"	"northeast "	"budweiser"	"2019"	990
+"Nigeria"	"northwest"	"budweiser"	"2019"	948
+"Nigeria"	"west"	"budweiser"	"2019"	884
+"Nigeria"	"southsouth"	"budweiser"	"2019"	847
+
+C1
+"countries"	"Highest Beer Consumption - Country"
+"Senegal"	"129,875"
+
+C2
+"brands"	"sales_rep"	"Highest Sales Rep - Senegal (Top 5)"
+"budweiser"	"Jones"	5917
+"budweiser"	"Sorvino"	4246
+"budweiser"	"Andrews"	3336
+"budweiser"	"Kivell"	2813
+"budweiser"	"Jardine"	2507
+
+
+C3
+"countries"	"Beer per Country - 4th QTR 2019"
+"Ghana"	2045230
+"Togo"	1448360
+"Nigeria"	1383280
+"Benin"	1109130
+"Senegal"	959260
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
