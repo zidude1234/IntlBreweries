@@ -13,12 +13,6 @@ From the international breweries data recorded for a duration of three years, yo
 profit and reduce loss to the lowest minimum. 
 
 ## Case Study Questions
-
-<details>
-<summary>
-Click here to expand!
-</summary>
-
 ### Session A -  PROFIT ANALYSIS
 1. Within the space of the last three years, what was the profit worth of the breweries, inclusive of the anglophone and the francophone territories?
 2. Compare the total profit between these two territories in order for the territory manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.
